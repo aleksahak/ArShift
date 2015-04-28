@@ -1,0 +1,24 @@
+ArShift is a structure-based predictor of proton chemical shifts of aromatic side-chains in proteins. The code is for both the stand-alone and server implementations of ArShift.
+
+Please cite the following paper when using the code:
+
+Sahakyan A.B., Vranken W.F., Cavalli A., Vendruscolo M. “Using Side-Chain Aromatic Proton Chemical Shifts for a Quantitative Analysis of Protein Structures”, Angew. Chem. Int. Ed., 50, 9620-9623, 2011.
+http://dx.doi.org/10.1002/anie.201101641 
+
+If using the structure validation report and Qcs scores of ArShift, also cite:
+
+Sahakyan A.B., Cavalli A., Vranken W.F., Vendruscolo M. “Protein Structure Validation Using Side-Chain Chemical Shifts”, J. Phys. Chem. B, 116, 4754-4759, 2012.
+http://dx.doi.org/10. 1021/jp2122054 
+
+
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# License: You may redistribute this source code (or its components) and/or   #
+#   modify/translate it under the terms of the GNU General Public License     #
+#   as published by the Free Software Foundation; version 2 of the License    #
+#   (GPL2). You can find the details of GPL2 in the following link:           #
+#   https://www.gnu.org/licenses/gpl-2.0.html                                 #
+#                                                                             #
+# Aleksandr B. Sahakyan (C) 2009+ (aleksahak[at]cantab.net).                  #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
